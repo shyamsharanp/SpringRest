@@ -1,4 +1,4 @@
-package com.simplilearn;
+package com.simplilearn.config;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.ControllerAdvice;
